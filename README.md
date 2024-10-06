@@ -34,6 +34,7 @@ Before running this application, you will need the following:
 ### Installation
 
 1. **Clone the repository**
+   
    ```bash
    git clone https://github.com/Jay5000-bhatt/Weather-App.git
    cd weather-app
